@@ -1,0 +1,21 @@
+# Skills
+- skill: Languages
+  description: JavaScript, Ruby, HTML5, CSS3, SQL.
+
+- skill: Frontend
+  description: React, jQuery, Bootstrap, Bulma, Handlebars, EJS, ERB.
+
+- skill: Backend
+  description: Node.JS, Rails, Express, Knex, ActiveRecord, Sequelize.
+
+- skill: Database
+  description: PostgreSQL, MongoDB.
+
+- skill: Testing
+  description: Mocha, Chai, RSpec, Capybara, Poltergeist.
+
+- skill: Version Control
+  description: Git, Github.
+
+- skill: Spoken Languages
+  description: English, French.
