@@ -17,7 +17,7 @@
   role: Ruby, Rails, ActiveRecord, Capybara, Poltergeist, SASS, Bcrypt
   duration: February, 2017
   url: "https://lit-chamber-75943.herokuapp.com/"
-  description: Six day project at Lighthouse Labs, an inherited e-commerce app with missing features and bugs to simulate an on-the-job scenario. Deployed on heroku Github <a href="https://github.com/mprads/jungle-rails">link</a>.
+  description: Six day project at Lighthouse Labs, an inherited e-commerce app with missing features and bugs to simulate an on-the-job scenario. Deployed on heroku Github <a href="https://github.com/mprads/jungle-rails" target="_blank">link</a>.
 
 - project: Chatty App
   role: ES6, Node.JS, Express, SASS, React, Webpack, Babel
@@ -25,20 +25,20 @@
   url: "https://github.com/mprads/chatty-app"
   description: Five day project at Lighthouse Labs, an online chat room for multiple users.
 
-- project: Order for Pickup App
-  role: ES6, ES5, Node.js, Express, Bootstrap, jQuery, SASS, PostgreSQL, Knex, Twilio, Knex-Logger
-  duration: February, 2017
-  url: "https://github.com/mprads/lhl-midterm-proj"
-  description: Five day midterm project at Lighthouse Labs, an app that allows you to place an order for pick up.
+#- project: Order for Pickup App
+#  role: ES6, ES5, Node.js, Express, Bootstrap, jQuery, SASS, PostgreSQL, Knex, Twilio, Knex-Logger
+#  duration: February, 2017
+#  url: "https://github.com/mprads/lhl-midterm-proj"
+#  description: Five day midterm project at Lighthouse Labs, an app that allows you to place an order for pick up.
 
-- project: Tweeter
-  role: ES6, jQuery, CSS3, Mongodb, Dotenv, Ajax
-  duration: January, 2017
-  url: "http://murmuring-ridge-15511.herokuapp.com/"
-  description: Three day project at Lighthouse Labs, deployed on Heroku and database stored on MongoLab. Twitter clone that allows users to post tweets. Github <a href="https://github.com/mprads/tweeter">link</a>.
+#- project: Tweeter
+#  role: ES6, jQuery, CSS3, Mongodb, Dotenv, Ajax
+#  duration: January, 2017
+#  url: "http://murmuring-ridge-15511.herokuapp.com/"
+#  description: Three day project at Lighthouse Labs, deployed on Heroku and database stored on MongoLab. Twitter clone that allows users to post tweets. Github <a href="https://github.com/mprads/tweeter">link</a>.
 
-- project: Tiny URL App
-  role: ES6, Node.JS, Express, Cookie-Session, Bcrypt
-  duration: January, 2017
-  url: "https://github.com/mprads/tinyApp"
-  description: Three day project at Lighthouse Labs, an app that allows users to shorten, save and share links. User authentication with cookie-session and bcrypt.
+#- project: Tiny URL App
+#  role: ES6, Node.JS, Express, Cookie-Session, Bcrypt
+#  duration: January, 2017
+#  url: "https://github.com/mprads/tinyApp"
+#  description: Three day project at Lighthouse Labs, an app that allows users to shorten, save and share links. User authentication with cookie-session and bcrypt.

@@ -9,12 +9,12 @@
   duration: April, 2017 &mdash; September, 2017
   summary: Full stack developement specailaing in chatbot through Facebook Messenger and Amazon Alexa. <ul class="resume-item-list"><li>Create proof of concept bots for customers and potential investors.</li><li>Create dashboard interface for admins to use in order to change functionality of the chatbot.</li><li>Create issues and review pull request of peers.</li></ul>
 
-- company: Arrow Equipment LTD
-  position: Front Desk
-  duration: June, 2015 &mdash; December, 2016
-  summary: Aid customers with inquiries and manage work orders for the back shop. <ul class="resume-item-list"><li>Manage inventory of parts and stock.</li><li>Complete work orders and warranties.</li><li>Building and testing of equipment before sales.</li></ul>
+#- company: Arrow Equipment LTD
+#  position: Front Desk
+#  duration: June, 2015 &mdash; December, 2016
+#  summary: Aid customers with inquiries and manage work orders for the back shop. <ul class="resume-item-list"><li>Manage inventory of parts and stock.</li><li>Complete work orders and warranties.</li><li>Building and testing of equipment before sales.</li></ul>
 
-- company: Canadian Tire
-  position: Autoparts and Tools
-  duration: March, 2011  &mdash; May, 2013
-  summary: Aid customers with inquiries and stock shelves. <ul class="resume-item-list"><li>Place parts orders for mechanics shop repairs.</li><li>Complete car battery warranties.</li></ul>
+#- company: Canadian Tire
+#  position: Autoparts and Tools
+#  duration: March, 2011  &mdash; May, 2013
+#  summary: Aid customers with inquiries and stock shelves. <ul class="resume-item-list"><li>Place parts orders for mechanics shop repairs.</li><li>Complete car battery warranties.</li></ul>
