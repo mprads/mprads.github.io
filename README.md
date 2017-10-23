@@ -1,8 +1,9 @@
+[Resume](https://mprads.github.io/)
+
+
 # resume-template
 
 *A simple Jekyll + GitHub Pages powered resume template.*
-
-![img](images/screenshot.png)
 
 ## Docs
 
