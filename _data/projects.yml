@@ -1,7 +1,7 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-- project: Facebook Messenger Chatbot Skeleton
+- project: Messenger Chatbot Skeleton
   role: ES6, Node.JS, Babel, Webpack, Express
   duration: October, 2017
   url: "https://github.com/mprads/messenger-chat-bot-skeleton"
