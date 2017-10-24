@@ -11,19 +11,19 @@
   role: ES6, React, Node.JS, PostgreSQL, Knex, Bulma, SASS, Babel, Webpack
   duration: March, 2017
   url: "https://github.com/mprads/florence-final-project"
-  description: Fifteen day final project at Lighthouse Labs, an app to increase communications between patient and nurse at a hospice.
+  description: Project created during time at Lighthouse Labs, an app to increase communications between patient and nurse at a hospice.
 
 - project: E-commerce App
   role: Ruby, Rails, ActiveRecord, Capybara, Poltergeist, SASS, Bcrypt
   duration: February, 2017
   url: "https://lit-chamber-75943.herokuapp.com/"
-  description: Six day project at Lighthouse Labs, an inherited e-commerce app with missing features and bugs to simulate an on-the-job scenario. Deployed on heroku Github <a href="https://github.com/mprads/jungle-rails" target="_blank">link</a>.
+  description: Project created during time atLighthouse Labs, an inherited e-commerce app with missing features and bugs to simulate an on-the-job scenario. Deployed on heroku Github <a href="https://github.com/mprads/jungle-rails" target="_blank">link</a>.
 
 - project: Chatty App
   role: ES6, Node.JS, Express, SASS, React, Webpack, Babel
   duration: February, 2017
   url: "https://github.com/mprads/chatty-app"
-  description: Five day project at Lighthouse Labs, an online chat room for multiple users.
+  description: Project created during time atLighthouse Labs, an online chat room for multiple users.
 
 #- project: Order for Pickup App
 #  role: ES6, ES5, Node.js, Express, Bootstrap, jQuery, SASS, PostgreSQL, Knex, Twilio, Knex-Logger
