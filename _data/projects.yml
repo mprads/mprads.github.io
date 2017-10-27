@@ -17,7 +17,7 @@
   role: Ruby, Rails, ActiveRecord, Capybara, Poltergeist, SASS, Bcrypt
   duration: February, 2017
   url: "https://lit-chamber-75943.herokuapp.com/"
-  description: Project created during time at Lighthouse Labs, an inherited e-commerce app with missing features and bugs to simulate an on-the-job scenario. Deployed on Heroku Github <a href="https://github.com/mprads/jungle-rails" target="_blank">link</a>.
+  description: Project created during time at Lighthouse Labs, an inherited e-commerce app with missing features and bugs to simulate an on-the-job scenario. Deployed on Heroku, <a href="https://github.com/mprads/jungle-rails" target="_blank">Github</a>.
 
 - project: Chatty App
   role: ES6, Node.JS, Express, SASS, React, Webpack, Babel
