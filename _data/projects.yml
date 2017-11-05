@@ -5,25 +5,25 @@
   role: ES6, Node.JS, Babel, Express
   duration: October, 2017
   url: "https://github.com/mprads/messenger-chat-bot-skeleton"
-  description: A basic skeleton and tutorial to have a chatbot running on Facebook Messenger.
+  description: A basic skeleton and tutorial to help developers create and deploy a chatbot that can be interacted with through Facebook Messenger.
 
 - project: Florence
   role: ES6, React, Node.JS, PostgreSQL, Knex, Bulma, SASS, Babel, Webpack
   duration: March, 2017
   url: "https://github.com/mprads/florence-final-project"
-  description: Project created during time at Lighthouse Labs, an app to increase communications between patient and nurse at a hospice.
+  description: Florence fosters better communication between patients and nurses in a hospice environment, allowing patients to create more detailed requests and a quque system quickening response time for nurses.
 
-- project: E-commerce App
+- project: Jungle App
   role: Ruby, Rails, ActiveRecord, Capybara, Poltergeist, SASS, Bcrypt
   duration: February, 2017
   url: "https://lit-chamber-75943.herokuapp.com/"
-  description: Project created during time at Lighthouse Labs, an inherited e-commerce app with missing features and bugs to simulate an on-the-job scenario. Deployed on Heroku, <a href="https://github.com/mprads/jungle-rails" target="_blank">Github</a>.
+  description: An inherited e-commerce app with missing features and bugs to simulate an on-the-job scenario. Deployed on Heroku, <a href="https://github.com/mprads/jungle-rails" target="_blank">Github</a>.
 
 - project: Chatty App
   role: ES6, Node.JS, Express, SASS, React, Webpack, Babel
   duration: February, 2017
   url: "https://github.com/mprads/chatty-app"
-  description: Project created during time at Lighthouse Labs, an online chat room for multiple users.
+  description: A single page application that is an online chat room for multiple users.
 
 #- project: Order for Pickup App
 #  role: ES6, ES5, Node.js, Express, Bootstrap, jQuery, SASS, PostgreSQL, Knex, Twilio, Knex-Logger
